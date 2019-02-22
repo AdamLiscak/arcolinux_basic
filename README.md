@@ -11,9 +11,9 @@ base
 base-devel
 vim
 gotop-bin (AUR)
-st(luke smith) or urvxt
 compton(AUR)
 -Sl | grep alsa 
+termite
 
 drivers ( later)
 
